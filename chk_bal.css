@@ -1,0 +1,48 @@
+body
+{
+	background-color:green;
+}
+.click{
+	text-decoration:none;
+	 color:white;
+	 padding:10px 30px;
+	 text-align:center;
+	 background-color:black;
+	 font-size:16px;
+	 cursor:pointer;
+	 outline:none;
+	 position:absolute;
+	 border-radius:15px;
+}
+.button
+  {
+	  text-decoration:none;
+	 color:white;
+	 padding:10px 30px;
+	 text-align:center;
+	 background-colOR:black;
+	 font-size:16px;
+	 cursor:pointer;
+	 outline:none;
+	
+	 border-radius:15px;
+   }
+   .button:hover
+   {
+	 color:black;
+	 background-color:white;
+	 text-decoration: none;
+	}
+	.click:hover{
+	 color:black;
+	 background-color:white;
+	
+	}
+ .details{
+	 position:absolute;
+	 margin-top:170px;
+	 margin-left:500px;
+ }
+ html{
+	 background-color:grey;
+ }
