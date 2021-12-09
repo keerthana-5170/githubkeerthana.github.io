@@ -48,10 +48,12 @@
   
   ### Explanation
    ```
-  First line of the input contains the number of test cases T.
-  It is followed by T test cases. Each test case's first line contains two integers N and m , where N is the number   of magic spots stations from 1 to N and m is the number of   pathways which connect the spots.
+  - First line of the input contains the number of test cases T.
+  It is followed by T test cases. Each test case's first line contains two integers N and m , where N is the number of magic spots stations 
+  from 1 to N and m is the number of pathways which connect the spots.
   Follows m lines each containing three numbers p , q and d which represent spots having name p connects station q and distance between them is d . 
-  After that a line follows   with number A , B , C , where A represents the name of the start spot , C the destination spot and B is the spot through which the participant       decides to go.
+  After that a line follows with number A , B , C , where A represents the name of the start spot , C the destination spot 
+  and B is the spot through which the participant decides to go.
   For each test case , If there exists no paths as described in the problem print "No Path Found." otherwise in the first line print the total distance and in the second line     path to be covered.
 
    ```   
