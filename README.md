@@ -1,13 +1,13 @@
 ### December 11 - Maze Festival
 
    #### Problem Statement
-    -On the occasion of Halloween,a grand corn maze puzzle has been set up in the fields of Hubb’s farm,New York.
-    -There are several  mystery boxes hidden at each magic spot 
-    -Assume that there are N magic spots from 1 to N in the entire field.
-    -At the beginning of each round the participants will be given the name of the magic spot to be reached.Given a participant who choses A,B,C the starting spot ,the path      chosen to reach the final spot and the final magic spot respectively.
-    -Identify whether the participant can reach the destination spot or not.If yes print the distance covered and the path taken by the participant to reach the final magic spot.Else print “NO PATH FOUND”.
+   - On the occasion of Halloween,a grand corn maze puzzle has been set up in the fields of Hubb’s farm,New York.
+   - There are several  mystery boxes hidden at each magic spot 
+   - Assume that there are N magic spots from 1 to N in the entire field.
+   - At the beginning of each round the participants will be given the name of the magic spot to be reached.Given a participant who choses A,B,C the starting spot ,the path      chosen to reach the final spot and the final magic spot respectively.
+   - Identify whether the participant can reach the destination spot or not.If yes print the distance covered and the path taken by the participant to reach the final magic spot.Else print “NO PATH FOUND”.
   
-    -Note:If a pathway connects A to B with distance d  then it means that it will connect from B to A with the same distance d.
+   - Note:If a pathway connects A to B with distance d  then it means that it will connect from B to A with the same distance d.
       <p align="center"><img src ="/src/assets/corn-maze.gif" height = "300"/></p> 
 
    ### Sample Input and output
